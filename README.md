@@ -18,10 +18,12 @@ In your ~/.vimrc file, add the following lines without quotes (create one if it 
 "autocmd BufRead,BufNewFile \*.note set filetype=notes"
 "syntax on"
 
-The first command above maps the syntax file to the extension ".note" and
-The second command switches on syntax
+The first command above maps the syntax file 'notes.vim' to files ending the extension ".note"
+    You can change this to your own extension or support multiple extensions if you want.
+The second command switches on syntax highlighting in vim.
 
 Now copy the syntax file into "~/.vim/syntax/notes.vim". (create folders if they don't exist)
+Copy it to "/usr/share/vim/vim73/syntax/notes.vimZ" if you want to install for all users
 Thats it! You are now ready to make notes!
 
 
