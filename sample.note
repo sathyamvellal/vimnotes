@@ -1,0 +1,35 @@
+Main heading:-
+<Main Heading>
+
+Sub heading:
+->  + point1
+	~ sub point1 => implies this
+	~ sub point2
+    + Tree structured point2
+      |
+      +- sub point1
+      |	 |
+      |  +- point1 deep inside
+      |  |
+      |  +- point2 deep inside
+      |
+      +- sub poin2
+    + point3
+
+@Tag a word
+@Tag multiple words, by ending with comma
+'Special phrase' to highlight
+
+_underline_ few things
+
+mark "quotations" also
+For references, \you can comment
+comments can also \be between\ words
+
+highlight 
+<comment
+block>
+highlight {Notable points}
+highlight [important points]
+
+use ` for escaping everything! `{got it?}
