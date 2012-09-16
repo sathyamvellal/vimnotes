@@ -24,9 +24,38 @@ The second command switches on syntax
 Now copy the syntax file into "~/.vim/syntax/notes.vim". (create folders if they don't exist)
 Thats it! You are now ready to make notes!
 
+
 Usage
 =====
 
 Save your notes with the extension .note
 Preferrably use gvim (vim -g) as your editor to get the best effects and colours
 The usage of the syntax is described in sample.note
+
+
+Change log
+==========
+
+vim notes plugin v1.1
++ removed block comments (This feature is no longer supported!)
+
+vimnotes plugin v1.0 (initial release)
++ Main heading
++ subheading
++ entry marker
++ implies marker
++ Point
++ Sub point
++ Tree structured point
++ Tag
++ Multiple word Tag
++ Marked phrase
++ Underlined phrase
++ Quotations
++ Comment
++ Limited Comment
++ Block Comments
++ highlight points
++ highlight important points
++ Escape rest of line
++ Escape part of line

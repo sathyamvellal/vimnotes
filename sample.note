@@ -25,10 +25,9 @@ mark "quotations" also
 For references, \you can comment
 comments can also \be between\ words
 
-highlight 
-<comment
-block>
 highlight {Notable points}
 highlight [important points]
 
-use ` for escaping everything! `{got it?}
+use ` for escaping rest of line!
+`{got it?}
+use `` for escaping `{part}` of \line\
