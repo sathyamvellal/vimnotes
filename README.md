@@ -23,7 +23,7 @@ The first command above maps the syntax file 'notes.vim' to files ending the ext
 The second command switches on syntax highlighting in vim.
 
 Now copy the syntax file into "~/.vim/syntax/notes.vim". (create folders if they don't exist)
-Copy it to "/usr/share/vim/vim73/syntax/notes.vimZ" if you want to install for all users
+Copy it to "/usr/share/vim/vim73/syntax/notes.vim" if you want to install for all users
 Thats it! You are now ready to make notes!
 
 
