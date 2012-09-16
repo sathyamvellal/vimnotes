@@ -12,8 +12,9 @@ gvim (gtk based vim). The plain old vim does not have much colouring and formatt
 
 Installation
 ============
---> Assuming gvim is installed
-in your ~/.vimrc file, add the following lines without quotes (create one if it doesn't exist)
+Assuming gvim is installed
+
+In your ~/.vimrc file, add the following lines without quotes (create one if it doesn't exist)
 "autocmd BufRead,BufNewFile \*.note set filetype=notes"
 "syntax on"
 
